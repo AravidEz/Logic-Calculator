@@ -45,3 +45,5 @@ Permite ingresar expresiones con operadores lógicos y genera la **solución** j
 3. Corre el programa:
    ```bash
    python main.py
+
+🌐 [English version here](./README_EN.md)
