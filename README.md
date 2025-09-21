@@ -26,8 +26,6 @@ Permite ingresar expresiones con operadores lógicos y genera la **solución** j
 ### 🖱️ Para usuarios normales
 - Descargar el archivo **.exe** y ejecutarlo como cualquier aplicación.
     Puedes descargar el ejecutable [aquí](https://github.com/AravidEz/Logic-Calculator/releases/download/calculadora/CalculadoraLogica.exe)
-  
-  *(Nota: aún no lo he probado en otras computadoras 👀)*  
 
 ---
 
