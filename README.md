@@ -3,7 +3,7 @@
 Una calculadora sencilla de **proposiciones lógicas**.  
 Permite ingresar expresiones con operadores lógicos y genera la **solución** junto con la **tabla de verdad** de los valores posibles.  
 
-> ⚠️ Nota: si la proposición es demasiado larga, la calculadora la resuelve, pero la tabla se mostrará recortada.
+> ⚠️ Nota: si la proposición es demasiado larga, la calculadora la resuelve, pero la tabla no se mostrará completa.
 
 ---
 
