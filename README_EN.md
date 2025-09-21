@@ -39,10 +39,9 @@ It allows you to enter logical expressions with operators and generates the **so
 1. Clone this repository:  
    ```bash
    git clone https://github.com/usuario/repositorio.git
-2.Install dependencies (if not already installed):
-  ```bash
-  pip install pillow
-```
+2. Install dependencies (if not already installed):
+   ```bash
+   pip install pillow
 3. Run the program:
    ```bash
    python main.py
