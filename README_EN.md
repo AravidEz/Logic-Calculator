@@ -3,7 +3,7 @@
 A simple **propositional logic calculator**.  
 It allows you to enter logical expressions with operators and generates the **solution** along with a **truth table** of all possible values.  
 
-> ⚠️ Note: if the proposition is too long, the calculator solves it, but the table will be truncated.
+> ⚠️ Note: If the proposition is too long, the calculator will solve it, but the table may not display completely.
 
 ---
 
