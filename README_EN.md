@@ -1,9 +1,9 @@
 # 🧮 Basic Logic Calculator
 
 A simple **propositional logic calculator**.  
-It allows you to enter logical expressions with operators and generates the **solution** along with a **truth table** of all possible values.  
+It allows you to enter logical expressions with operators and generates the **solution** along with the **truth table** of all possible values.  
 
-> ⚠️ Note: If the proposition is too long, the calculator will solve it, but the table may not display completely.
+> ⚠️ Note: if the proposition is too long, the calculator solves it, but the table will be truncated.
 
 ---
 
@@ -24,30 +24,35 @@ It allows you to enter logical expressions with operators and generates the **so
   - `PIL`  
 
 ### 🖱️ For regular users
-- Download the file **.exe** and run it like any normal application.
-    You can download the executable [here](https://github.com/AravidEz/Logic-Calculator/releases/download/calculadora/CalculadoraLogica.exe)
-  
+- Download the **.exe** file and run it like any normal application.  
+1. **🪟 For Windows:**  
+  You can download the executable [for Windows](https://github.com/AravidEz/Logic-Calculator/releases/download/calculadora/CalculadoraLogica.exe)  
+2. **🍎 For Mac:**  
+  You can download the executable [for Mac](https://github.com/AravidEz/Logic-Calculator/releases/download/mac/CalculadoraLogica)  
 
 ---
 
 ## 🚀 How to use
 
 ### Running the `.exe`
-1. Download the executable file **CalculadoraLogica.exe**.
+1. Download the executable according to your system.
 > ⚠️ Security notice: Only download the executable from this official GitHub link.  
-> Downloads from other sites may contain malware. This file is safe, but **only from here**.  
-> Some antivirus programs might show warnings when opening it, but there's nothing to worry about 😄
+> Downloads from other sites could contain malware. This file is safe, but **only from here**.  
+> Some antivirus programs might show warnings when opening it, but there is nothing to worry about 😄
   
 2. Double-click it like a normal application.  
 
 ### Running the Python code
-1. Download the folder *CalculadoraLogica*:  
- 📂 [CalculadoraLogica](https://github.com/AravidEz/Logic-Calculator/tree/main/CalculadoraLogica)
-> ⚠️ **Important:** make sure to download the entire repository so that the program's images and resources are available. Otherwise, the program will not work properly.
+1. Download the entire folder:  
+- **🪟 For Windows:** 📂 [CalculadoraLogica](https://github.com/AravidEz/Logic-Calculator/tree/main/CalculadoraLogica)  
+- **🍎 For Mac:** 📂 [CalculadoraLogicaMac](https://github.com/AravidEz/Logic-Calculator/tree/main/CalculadoraLogicaMac)
+
+> ⚠️ **Important:** Make sure to download the entire repository so that the program's images and resources are available. Otherwise, the program will not work properly.
 
 2. Install dependencies (if not already installed):
-   ```bash
-   pip install pillow
+```bash
+  pip install pillow
+```
 3. Run the program:
-   ```bash
-   python main.py
+```bash
+python main.py
