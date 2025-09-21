@@ -26,9 +26,9 @@ Permite ingresar expresiones con operadores lógicos y genera la **solución** j
 ### 🖱️ Para usuarios normales
 - Descargar el archivo **.exe** y ejecutarlo como cualquier aplicación.
 1. **🪟Para Windows:**
-  Puedes descargar el ejecutable para [Windows Aqui](https://github.com/AravidEz/Logic-Calculator/releases/download/calculadora/CalculadoraLogica.exe)
+  Puedes descargar el ejecutable [para Windows](https://github.com/AravidEz/Logic-Calculator/releases/download/calculadora/CalculadoraLogica.exe)
 2. **🍎Para Mac:**
-   Puedes descargar el ejecutable para [Mac Aqui](https://github.com/AravidEz/Logic-Calculator/releases/download/calculadora/CalculadoraLogica.exe)
+   Puedes descargar el ejecutable [para Mac](https://github.com/AravidEz/Logic-Calculator/releases/download/mac/CalculadoraLogica)
 ---
 
 ## 🚀 Cómo usarlo
@@ -43,9 +43,11 @@ Permite ingresar expresiones con operadores lógicos y genera la **solución** j
 
 ### Ejecutando el código en Python
 1. Descarga toda la carpeta *CalculadoraLogica*:  
-  📂 [CalculadoraLogica](https://github.com/AravidEz/Logic-Calculator/tree/main/CalculadoraLogica)
-  > ⚠️ **Importante:** asegúrate de descargar todo el repositorio para que las imágenes y recursos del programa estén disponibles. De lo contrario, el programa no funcionará correctamente. 
-_Nota🖋️: En caso de ser computadora **Mac** deberas borrar la carpeta assset y descargar la carpeta assets que se encuentra adentro de:_ 📂 [CalculadoraLogica](https://github.com/AravidEz/Logic-Calculator/tree/main/CalculadoraLogica)
+📂 [CalculadoraLogica](https://github.com/AravidEz/Logic-Calculator/tree/main/CalculadoraLogica)
+
+> ⚠️ **Importante:** asegúrate de descargar todo el repositorio para que las imágenes y recursos del programa estén disponibles. De lo contrario, el programa no funcionará correctamente.
+
+*🖋️ Nota: En caso de ser computadora **Mac**, deberás borrar la carpeta `assset` y descargar la carpeta `assets` que se encuentra adentro de:* 📂 [CalculadoraLogica](https://github.com/AravidEz/Logic-Calculator/tree/main/CalculadoraLogica)
 
 2. Instala las dependencias (si no las tienes):
    ```bash
