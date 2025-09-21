@@ -38,7 +38,7 @@ Permite ingresar expresiones con operadores lógicos y genera la **solución** j
 ### Ejecutando el código en Python
 1. Clona este repositorio:  
    ```bash
-   --
+   git clone https://github.com/AravidEz/Logic-Calculator.git
 2. Instala las dependencias (si no las tienes):
    ```bash
    pip install pillow
