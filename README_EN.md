@@ -36,9 +36,10 @@ It allows you to enter logical expressions with operators and generates the **so
 2. Double-click it like a normal application.  
 
 ### Running the Python code
-1. Clone this repository:  
+1. Download the folder *CalculadoraLogica*:  
    ```bash
    git clone https://github.com/AravidEz/Logic-Calculator.git
+⚠️ **Important:** make sure to download the entire repository so that the program's images and resources are available. Otherwise, the program will not work properly.
 2. Install dependencies (if not already installed):
    ```bash
    pip install pillow
