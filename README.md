@@ -36,9 +36,11 @@ Permite ingresar expresiones con operadores lógicos y genera la **solución** j
 2. Haz doble clic como si fuera una aplicación normal.  
 
 ### Ejecutando el código en Python
-1. Clona este repositorio:  
+1. Descarga la carpeta *CalculadoraLogica*:  
    ```bash
    git clone https://github.com/AravidEz/Logic-Calculator.git
+  ⚠️ **Importante:** asegúrate de descargar todo el repositorio para que las imágenes y recursos del programa estén disponibles. De lo contrario, el programa no funcionará correctamente.
+
 2. Instala las dependencias (si no las tienes):
    ```bash
    pip install pillow
