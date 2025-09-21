@@ -24,15 +24,20 @@ It allows you to enter logical expressions with operators and generates the **so
   - `PIL`  
 
 ### 🖱️ For regular users
-- Download the **.exe file** and run it like any normal application.  
-  *(Note: not yet tested on other computers 👀)*  
+- Download the file **.exe** and run it like any normal application.
+    You can download the executable [here](https://github.com/AravidEz/Logic-Calculator/releases/download/calculadora/CalculadoraLogica.exe)
+  
 
 ---
 
 ## 🚀 How to use
 
 ### Running the `.exe`
-1. Download the executable file.  
+1. Download the executable file **CalculadoraLogica.exe**.
+> ⚠️ Security notice: Only download the executable from this official GitHub link.  
+> Downloads from other sites may contain malware. This file is safe, but **only from here**.  
+> Some antivirus programs might show warnings when opening it, but there's nothing to worry about 😄
+  
 2. Double-click it like a normal application.  
 
 ### Running the Python code
