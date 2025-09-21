@@ -25,14 +25,16 @@ Permite ingresar expresiones con operadores lógicos y genera la **solución** j
 
 ### 🖱️ Para usuarios normales
 - Descargar el archivo **.exe** y ejecutarlo como cualquier aplicación.
-    Puedes descargar el ejecutable [aquí](https://github.com/AravidEz/Logic-Calculator/releases/download/calculadora/CalculadoraLogica.exe)
-
+1. **🪟Para Windows:**
+  Puedes descargar el ejecutable para [Windows Aqui](https://github.com/AravidEz/Logic-Calculator/releases/download/calculadora/CalculadoraLogica.exe)
+2. **🍎Para Mac:**
+   Puedes descargar el ejecutable para [Mac Aqui](https://github.com/AravidEz/Logic-Calculator/releases/download/calculadora/CalculadoraLogica.exe)
 ---
 
 ## 🚀 Cómo usarlo
 
 ### Ejecutando el `.exe`
-1. Descarga el archivo ejecutable **CalculadoraLogica.exe**.
+1. Descarga el archivo ejecutable, según sea tu equipo.
 > ⚠️ Aviso de seguridad: Solo descarga el ejecutable desde este enlace oficial de GitHub.  
 > Descargas desde otros sitios podrían contener malware. Este archivo es seguro, pero **solo desde aquí**.  
 > Algunos antivirus podrían mostrar advertencias al abrirlo, pero no hay de qué preocuparse 😄
@@ -43,6 +45,7 @@ Permite ingresar expresiones con operadores lógicos y genera la **solución** j
 1. Descarga la carpeta *CalculadoraLogica*:  
   📂 [CalculadoraLogica](https://github.com/AravidEz/Logic-Calculator/tree/main/CalculadoraLogica)
   > ⚠️ **Importante:** asegúrate de descargar todo el repositorio para que las imágenes y recursos del programa estén disponibles. De lo contrario, el programa no funcionará correctamente.
+_Nota🖋️: En caso de ser computadora **Mac** deberas borrar la carpeta assset y descargar la carpeta assets que se encuentra adentro de:_ 📂 [CalculadoraLogica](https://github.com/AravidEz/Logic-Calculator/tree/main/CalculadoraLogica)
 
 2. Instala las dependencias (si no las tienes):
    ```bash
