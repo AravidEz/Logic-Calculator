@@ -38,7 +38,7 @@ Permite ingresar expresiones con operadores lógicos y genera la **solución** j
 ### Ejecutando el código en Python
 1. Descarga la carpeta *CalculadoraLogica*:  
   📂 [CalculadoraLogica](https://github.com/AravidEz/Logic-Calculator/tree/main/CalculadoraLogica)
-  ⚠️ **Importante:** asegúrate de descargar todo el repositorio para que las imágenes y recursos del programa estén disponibles. De lo contrario, el programa no funcionará correctamente.
+  > ⚠️ **Importante:** asegúrate de descargar todo el repositorio para que las imágenes y recursos del programa estén disponibles. De lo contrario, el programa no funcionará correctamente.
 
 2. Instala las dependencias (si no las tienes):
    ```bash
