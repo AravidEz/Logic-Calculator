@@ -24,7 +24,9 @@ Permite ingresar expresiones con operadores lógicos y genera la **solución** j
   - `PIL`  
 
 ### 🖱️ Para usuarios normales
-- Descargar el archivo **.exe** y ejecutarlo como cualquier aplicación.  
+- Descargar el archivo **.exe** y ejecutarlo como cualquier aplicación.
+    Puedes descargar el ejecutable [aquí](https://github.com/AravidEz/Logic-Calculator/releases/download/calculadora/CalculadoraLogica.exe)
+  
   *(Nota: aún no lo he probado en otras computadoras 👀)*  
 
 ---
@@ -32,7 +34,11 @@ Permite ingresar expresiones con operadores lógicos y genera la **solución** j
 ## 🚀 Cómo usarlo
 
 ### Ejecutando el `.exe`
-1. Descarga el archivo ejecutable.  
+1. Descarga el archivo ejecutable **CalculadoraLogica.exe**.
+> ⚠️ Aviso de seguridad: Solo descarga el ejecutable desde este enlace oficial de GitHub.  
+> Descargas desde otros sitios podrían contener malware. Este archivo es seguro, pero **solo desde aquí**.  
+> Algunos antivirus podrían mostrar advertencias al abrirlo, pero no hay de qué preocuparse 😄
+  
 2. Haz doble clic como si fuera una aplicación normal.  
 
 ### Ejecutando el código en Python
