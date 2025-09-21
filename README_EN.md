@@ -55,4 +55,4 @@ It allows you to enter logical expressions with operators and generates the **so
 ```
 3. Run the program:
 ```bash
-python main.py
+  python main.py
