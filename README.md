@@ -42,9 +42,9 @@ Permite ingresar expresiones con operadores lógicos y genera la **solución** j
 2. Haz doble clic como si fuera una aplicación normal.  
 
 ### Ejecutando el código en Python
-1. Descarga la carpeta *CalculadoraLogica*:  
+1. Descarga toda la carpeta *CalculadoraLogica*:  
   📂 [CalculadoraLogica](https://github.com/AravidEz/Logic-Calculator/tree/main/CalculadoraLogica)
-  > ⚠️ **Importante:** asegúrate de descargar todo el repositorio para que las imágenes y recursos del programa estén disponibles. De lo contrario, el programa no funcionará correctamente.
+  > ⚠️ **Importante:** asegúrate de descargar todo el repositorio para que las imágenes y recursos del programa estén disponibles. De lo contrario, el programa no funcionará correctamente. 
 _Nota🖋️: En caso de ser computadora **Mac** deberas borrar la carpeta assset y descargar la carpeta assets que se encuentra adentro de:_ 📂 [CalculadoraLogica](https://github.com/AravidEz/Logic-Calculator/tree/main/CalculadoraLogica)
 
 2. Instala las dependencias (si no las tienes):
