@@ -40,6 +40,8 @@ Permite ingresar expresiones con operadores lógicos y genera la **solución** j
    ```bash
    --
 2. Instala las dependencias (si no las tienes):
-   - pip install pillow -
+   ```bash
+   pip install pillow
 3. Corre el programa:
-    python main.py
+   ```bash
+   python main.py
