@@ -28,13 +28,13 @@ It allows you to enter logical expressions with operators and generates the **so
 1. **🪟 For Windows:**  
   You can download the executable [for Windows](https://github.com/AravidEz/Logic-Calculator/releases/download/calculadora/CalculadoraLogica.exe)  
 2. **🍎 For Mac:**  
-  You can download the executable [for Mac](https://github.com/AravidEz/Logic-Calculator/releases/download/mac/CalculadoraLogica)  
+  You can download the .zip an decompress [for Mac](https://github.com/AravidEz/Logic-Calculator/releases/download/mac/CalculadoraMac.zip)  
 
 ---
 
 ## 🚀 How to use
 
-### Running the `.exe`
+### Running the `.exe or .app`
 1. Download the executable according to your system.
 > ⚠️ Security notice: Only download the executable from this official GitHub link.  
 > Downloads from other sites could contain malware. This file is safe, but **only from here**.  
