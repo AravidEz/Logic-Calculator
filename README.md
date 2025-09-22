@@ -28,12 +28,12 @@ Permite ingresar expresiones con operadores lógicos y genera la **solución** j
 1. **🪟Para Windows:**
   Puedes descargar el ejecutable [para Windows](https://github.com/AravidEz/Logic-Calculator/releases/download/calculadora/CalculadoraLogica.exe)
 2. **🍎Para Mac:**
-   Puedes descargar el ejecutable [para Mac](https://github.com/AravidEz/Logic-Calculator/releases/download/mac/CalculadoraLogica)
+   Puedes descargar el zip y descomprimelo [para Mac](https://github.com/AravidEz/Logic-Calculator/releases/download/mac/CalculadoraMac.zip)
 ---
 
 ## 🚀 Cómo usarlo
 
-### Ejecutando el `.exe`
+### Ejecutando el `.exe o .app`
 1. Descarga el archivo ejecutable, según sea tu equipo.
 > ⚠️ Aviso de seguridad: Solo descarga el ejecutable desde este enlace oficial de GitHub.  
 > Descargas desde otros sitios podrían contener malware. Este archivo es seguro, pero **solo desde aquí**.  
